@@ -1,7 +1,7 @@
 # Merge Sort Project
 ---
 
-> # Merge sort steps   
+> # Merge Sort Steps    
    
           [16,21,11,8,12,22]
            /             \
@@ -17,7 +17,7 @@
               \          /
           [8,11,12,16,21,22]
           
-> # O notation
+> # Showing O notation
 
 2^x= n, logn= x, 
 
