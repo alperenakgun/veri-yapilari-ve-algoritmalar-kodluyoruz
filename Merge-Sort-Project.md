@@ -1,4 +1,7 @@
- > # Merge sort steps   
+# Merge Sort Project
+---
+
+> # Merge sort steps   
    
           [16,21,11,8,12,22]
            /             \
