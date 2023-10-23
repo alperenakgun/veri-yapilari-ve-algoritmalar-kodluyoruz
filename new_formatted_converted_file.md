@@ -1,6 +1,6 @@
 ## MNE 201: Nonrenewable Resources and Human Civilizations
 
-*Units: 3*
+# Units: 3
 
 The availability and use of nonrenewable resources such as hydrocarbons, coal, metals, stone, and industrial minerals has shaped the development of human societies from the Stone Age to the present, and will continue to affect future humanity. This course explores the uneven natural distribution and varying abundance of nonrenewable resources in the world; how humans have extracted and used them over time; and how nonrenewable resource extraction and use have affected the development of world civilizations. Major themes of this course include resource exhaustion, technological substitution, the geopolitics of resources, and unintended social and environmental side effects of nonrenewable resource extraction and use.
 
